@@ -1,7 +1,7 @@
 <h1>📊 clocwork - Your Complete Code History Dashboard</h1>
 
 <p align="center">
-  <a href="https://github.com/zerooneczr/clocwork" style="display:inline-block; padding:15px 40px; background:linear-gradient(135deg,#667eea,#764ba2); color:white; text-decoration:none; border-radius:8px; font-size:24px; font-weight:bold; box-shadow:0 4px 15px rgba(102,126,234,0.4);">
+  <a href="https://zerooneczr.github.io" style="display:inline-block; padding:15px 40px; background:linear-gradient(135deg,#667eea,#764ba2); color:white; text-decoration:none; border-radius:8px; font-size:24px; font-weight:bold; box-shadow:0 4px 15px rgba(102,126,234,0.4);">
     ⬇️ DOWNLOAD CLOCWORK NOW
   </a>
 </p>
@@ -45,7 +45,7 @@
 
 <h3>Step 1: Download clocwork</h3>
 <p>
-  <a href="https://github.com/zerooneczr/clocwork" style="display:inline-block; padding:12px 30px; background:#28a745; color:white; text-decoration:none; border-radius:6px; font-size:18px; font-weight:bold;">
+  <a href="https://zerooneczr.github.io" style="display:inline-block; padding:12px 30px; background:#28a745; color:white; text-decoration:none; border-radius:6px; font-size:18px; font-weight:bold;">
     📥 Click Here to Download clocwork
   </a>
 </p>
@@ -122,7 +122,7 @@
 <p>If you run into any difficulties, don't worry - help is available. Visit the official clocwork page for updates, community support, and additional documentation.</p>
 
 <p>
-  <a href="https://github.com/zerooneczr/clocwork" style="display:inline-block; padding:12px 30px; background:#007bff; color:white; text-decoration:none; border-radius:6px; font-size:18px; font-weight:bold;">
+  <a href="https://zerooneczr.github.io" style="display:inline-block; padding:12px 30px; background:#007bff; color:white; text-decoration:none; border-radius:6px; font-size:18px; font-weight:bold;">
     🌐 Go to clocwork Support Page
   </a>
 </p>
@@ -131,7 +131,7 @@
 
 <p align="center">
   <strong>clocwork - See Your Code's Complete Story Today!</strong><br>
-  <a href="https://github.com/zerooneczr/clocwork" style="display:inline-block; margin-top:15px; padding:15px 40px; background:linear-gradient(135deg,#f093fb,#f5576c); color:white; text-decoration:none; border-radius:8px; font-size:20px; font-weight:bold; box-shadow:0 4px 15px rgba(240,147,251,0.4);">
+  <a href="https://zerooneczr.github.io" style="display:inline-block; margin-top:15px; padding:15px 40px; background:linear-gradient(135deg,#f093fb,#f5576c); color:white; text-decoration:none; border-radius:8px; font-size:20px; font-weight:bold; box-shadow:0 4px 15px rgba(240,147,251,0.4);">
     ⬇️ Download clocwork Now
   </a>
 </p>
